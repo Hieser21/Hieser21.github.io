@@ -9,13 +9,6 @@ on:
   pull_request:
     branches: [ "main" ]
 
-env:
-  Client_Secret: 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
-Refresh_Token: 1//04QsHIKnN49jyCgYIARAAGAQSNwF-L9IrQuPYuIb2dRdp8AN1zqR7wRTr_puvX9MDia5ir71yUt3lryzvr9oRYXUXYMqQN0l6Eao
-Client_ID: 758541214200-6cflh3bf8aqomqr332qvv4fcriapppo4.apps.googleusercontent.com
-RECIPIENT: rarafat15@yahoo.com
-GMAIL_USER: rarafat883@gmail.com
-
 jobs:
   build:
 
